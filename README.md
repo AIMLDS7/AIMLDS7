@@ -1,7 +1,8 @@
 <!-- Header -->
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Darshit%20Gohel&fontSize=52&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Energy%20Data%20Scientist%20%7C%20BESS%20%26%20Electricity%20Markets%20%7C%20ML%20Forecasting&descAlignY=60&descAlign=50)
+<h1 align="center">Darshit Gohel</h1>
+<p align="center"><em>Energy Data Scientist &nbsp;·&nbsp; BESS &amp; Electricity Markets &nbsp;·&nbsp; ML Forecasting</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=720&lines=MSc+Sustainable+Energy+Systems+%E2%80%94+FH+Upper+Austria;Day-Ahead+Price+Forecasting+%7C+XGBoost+%7C+LightGBM;PV-BESS+Dispatch+Optimisation+%7C+30kV+Grid+Data;ENTSO-E+%2F+Open-Meteo+Data+Pipelines+%7C+AT+%C2%B7+DE+%C2%B7+PL+%C2%B7+SE;7.5+Years+EPC+%E2%80%94+USD+1B%2B+Megaproject+Delivery)](https://git.io/typing-svg)
 
@@ -143,6 +144,6 @@ Multi-strategy battery dispatch simulator using real **30kV substation data** (U
 
 <div align="center">
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+<div align="center"><sub>⚡ Energy · Data · Impact</sub></div>
 
 </div>
