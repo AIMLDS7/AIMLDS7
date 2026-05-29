@@ -12,8 +12,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=AIMLDS7&color=f0b429&style=for-the-badge&label=PROFILE+VIEWS)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshitgohel)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.darshit7@gmail.com)
 [![Location](https://img.shields.io/badge/Wels%2C%20Austria-0099CC?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20EU%20Roles-3fb950?style=for-the-badge)](#)
 
@@ -60,7 +60,7 @@ Interactive Jupyter notebook forecasting Austrian day-ahead electricity prices (
 
 ---
 
-### ☀️ [Solar & Wind Climate Analysis — Berlin & Honolulu](https://github.com/AIMLDS7/Data-Analysis-for-Solar-and-Wind)
+### ☀️ [Solar & Wind Climate Analysis — Berlin & Honolulu](https://github.com/AIMLDS7/Data-Analysis-for-Solar-and-WInd)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![NASA](https://img.shields.io/badge/NASA%20POWER-0B3D91?style=flat&logo=nasa&logoColor=white)
@@ -76,7 +76,7 @@ Multi-decade meteorological analysis using NASA POWER data. ARIMA/SARIMA time-se
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-![BESS](https://img.shields.io/badge/BESS%20Optimisation-f0b429?style=flat)
+![BESS](https://img.shields.io/badge/BESS%20Optimisation-f0b429?stylhe=flat)
 
 Multi-strategy battery dispatch simulator using real **30kV substation data** (UW Teufenbach, Austria). 54 simulation runs comparing curtailment reduction strategies — achieving **~88% curtailment savings** in optimal configurations.
 
@@ -177,8 +177,8 @@ This gives me something most pure data scientists lack: I understand energy infr
 
 I'm actively looking for roles in **energy data analytics, BESS modelling, and sustainability engineering** — particularly in the Netherlands, Ireland, UK, and EU remote positions.
 
-- 🔗 **LinkedIn:** [linkedin.com/in/YOUR_LINKEDIN](https://linkedin.com/in/YOUR_LINKEDIN)
-- 📧 **Email:** [your.email@example.com](mailto:your.email@example.com)
+- 🔗 **LinkedIn:** [linkedin.com/in/darshitgohel](https://linkedin.com/in/darshitgohel)
+- 📧 **Email:** [er.darshit7@gmail.com](mailto:er.darshit7@gmail.com)
 - 🌐 **Portfolio:** [AIMLDS7.github.io](https://AIMLDS7.github.io)
 - 📍 **Location:** Wels, Austria
 
