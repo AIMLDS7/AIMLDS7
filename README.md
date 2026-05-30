@@ -4,7 +4,7 @@
 <h1 align="center">Darshitkumar Gohel</h1>
 <p align="center"><em>Energy Data Scientist &nbsp;·&nbsp; BESS &amp; Electricity Markets &nbsp;·&nbsp; ML Forecasting</em></p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=720&lines=MSc+Sustainable+Energy+Systems+%E2%80%94+FH+Upper+Austria;Day-Ahead+Price+Forecasting+%7C+XGBoost+%7C+LightGBM;PV-BESS+Dispatch+Optimisation+%7C+30kV+Grid+Data;ENTSO-E+%2F+Open-Meteo+Data+Pipelines+%7C+AT+%C2%B7+DE+%C2%B7+PL+%C2%B7+SE;7.5+Years+EPC+%E2%80%94+USD+1B%2B+Megaproject+Delivery)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=720&lines=MSc+Sustainable+Energy+Systems+%E2%80%94+FH+Upper+Austria;Day-Ahead+Price+Forecasting+%7C+XGBoost+%7C+LightGBM;PV-BESS+Dispatch+Optimisation+%7C+30kV+Grid+Data;ENTSO-E+%2F+Open-Meteo+Data+Pipelines+%7C+AT+%C2%B7+DE+%C2%B7+PL+%C2%B7+SE;7.5+Years+EPC+%E2%80%94+USD+3B%2B+Megaproject+Delivery)](https://git.io/typing-svg)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-darshitgohel-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshitgohel)
 [![Email](https://img.shields.io/badge/Email-er.darshit7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:er.darshit7@gmail.com)
