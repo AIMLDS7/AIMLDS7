@@ -1,7 +1,7 @@
 <!-- Header -->
 <div align="center">
 
-<h1 align="center">Darshit Gohel</h1>
+<h1 align="center">Darshitkumar Gohel</h1>
 <p align="center"><em>Energy Data Scientist &nbsp;·&nbsp; BESS &amp; Electricity Markets &nbsp;·&nbsp; ML Forecasting</em></p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=F0B429&center=true&vCenter=true&width=720&lines=MSc+Sustainable+Energy+Systems+%E2%80%94+FH+Upper+Austria;Day-Ahead+Price+Forecasting+%7C+XGBoost+%7C+LightGBM;PV-BESS+Dispatch+Optimisation+%7C+30kV+Grid+Data;ENTSO-E+%2F+Open-Meteo+Data+Pipelines+%7C+AT+%C2%B7+DE+%C2%B7+PL+%C2%B7+SE;7.5+Years+EPC+%E2%80%94+USD+1B%2B+Megaproject+Delivery)](https://git.io/typing-svg)
@@ -19,7 +19,7 @@
 
 ## About
 
-Civil & energy engineer turned energy-data scientist — bridging **7.5 years of EPC megaproject delivery** (USD 1B+ portfolios across India, UAE, and Austria) with a focused pivot into **battery storage analytics, ML price forecasting, and European electricity market modelling**.
+Civil & energy engineer turned energy-data scientist — bridging **7.5 years of EPC megaproject delivery** (USD 3B+ portfolios across India, UAE, and Austria) with a focused pivot into **battery storage analytics, ML price forecasting, and European electricity market modelling**.
 
 I understand energy infrastructure not just as data — but as physical systems with real commercial stakes.
 
