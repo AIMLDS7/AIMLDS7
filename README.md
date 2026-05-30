@@ -178,7 +178,7 @@ Multi-strategy battery dispatch simulator using real **30kV substation data** (U
 |---|---|---|
 | Enery GmbH | BESS Business Development | Vienna, Austria |
 | Tata Consulting Engineers | Assistant Manager - Cost & Contracts | Mass Housing Project, India |
-| Gleeds Consulting | Assistant Cost Manager | Jio World Centre — USD 2.2B, India |
+| Gleeds Consulting | Assistant Cost Manager | IHCL, India |
 | Samsung C&T Corporation | Cost, Contracts & Procurement | Fujairah F3 CCGT — USD 977M, UAE |
 | Samsung C&T Corporation | Cost, Contracts & Procurement | Jio World Centre — USD 2.2B, India |
 
