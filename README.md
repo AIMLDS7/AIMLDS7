@@ -189,9 +189,9 @@ Multi-strategy battery dispatch simulator using real **30kV substation data** (U
 
 | Company | Role | Scale |
 |---|---|---|
-| Enery GmbH | BESS Business Development | Vienna, Austria |
-| Tata Consulting Engineers | Assistant Manager - Cost & Contracts | Mass Housing Project, India |
-| Gleeds Consulting | Assistant Cost Manager | IHCL, India |
+| Enery Österreich GmbH | BESS Business Development Support | Vienna, Austria |
+| Tata Consulting Engineers Limited (TCE) | Assistant Manager - Cost & Contracts | Mass Housing Project, India |
+| Gleeds consulting (india) private limited | Assistant Cost Manager | IHCL, India |
 | Samsung C&T Corporation | Cost, Contracts & Procurement | Fujairah F3 CCGT — USD 977M, UAE |
 | Samsung C&T Corporation | Cost, Contracts & Procurement | Jio World Centre — USD 2.2B, India |
 
@@ -216,7 +216,7 @@ Multi-strategy battery dispatch simulator using real **30kV substation data** (U
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/darshitgohel)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:er.darshit7@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0099CC?style=for-the-badge&logo=githubpages&logoColor=white)](https://AIMLDS7.github.io)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/AIMLDS7)
+
 
 </div>
 
