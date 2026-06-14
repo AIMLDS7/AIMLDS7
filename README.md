@@ -77,6 +77,19 @@ Forecasts Austrian day-ahead electricity prices (€/MWh) up to **7 days ahead**
 
 ---
 
+### ⚙️ [Energy Systems Optimization & Data Engineering](https://github.com/AIMLDS7/Energy-Systems-Optimization)
+
+![GAMS](https://img.shields.io/badge/GAMS-1f4b8f?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Operations Research](https://img.shields.io/badge/Operations%20Research-MIQCP%2FNLP-orange?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+A production-grade mathematical modeling package utilizing Mixed-Integer Quadratic Constrained Programming (MIQCP) and Non-Linear Programming (NLP). Implements a 24-hour Unit Commitment schedule and 5-bus DC Optimal Power Flow (DC-OPF) models. Includes a Python data visualization layer for grid congestion analysis.
+
+> **Outcomes:** 24hr MIQCP solver · N-1 Contingency Analysis · Python Data Extraction Pipeline
+
+---
+
 ### ☀️ [Solar & Wind Climate Analysis — Berlin & Honolulu](https://github.com/AIMLDS7/Data-Analysis-for-Solar-and-WInd)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
