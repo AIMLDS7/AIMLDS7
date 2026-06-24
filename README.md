@@ -44,9 +44,19 @@
      ============================================================ -->
 ## 🧑‍💻 About
 
+| Energy Systems & ML Architecture Stack | 
+|:---:|
+| ![3-tier isometric architecture stack showing ML forecasting pipelines, BESS grid assets, and commercial EPC foundations](images/Professional_System_Architecture_Overview.png) | 
+| *Three-tiered architectural overview bridging physical EPC infrastructure, substation BESS integration, and algorithmic price forecasting* |
+
 Civil & energy engineer turned energy-data scientist — bridging **7.5 years of EPC megaproject delivery** (USD 3B+ portfolios across India, UAE, and Austria) with a focused pivot into **battery storage analytics, ML price forecasting, and European electricity market modelling**.
 
 I understand energy infrastructure not just as data — but as physical systems with real commercial stakes.
+
+| Career Trajectory — Megaprojects to Machine Learning | 
+|:---:|
+| ![Infographic mapping a 7.5-year career evolution from EPC commercial management to AI-driven energy data science](images/Professional_Evolution_in_Energy_Analytics.png) | 
+| *The energy evolution: Bridging $3.2B+ global EPC management with AI Day-Ahead forecasting and 88% BESS curtailment savings* |
 
 | | |
 |---|---|
