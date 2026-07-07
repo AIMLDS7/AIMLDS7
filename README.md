@@ -113,19 +113,6 @@ Multi-decade meteorological analysis using NASA POWER data. ARIMA/SARIMA time-se
 
 ---
 
-### 🔋 PV-BESS Simulation Platform *(MSc Thesis — uploading soon)*
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![BESS](https://img.shields.io/badge/BESS%20Optimisation-f0b429?style=flat-square)
-![30kV Grid](https://img.shields.io/badge/30kV%20Grid%20Data-2e8b57?style=flat-square)
-
-Multi-strategy battery dispatch simulator using real **30kV substation data** (UW Teufenbach, Austria). 54 simulation runs comparing curtailment reduction strategies — achieving **~88% curtailment savings** in optimal configurations.
-
-> **Outcomes:** Real grid data · multi-strategy comparison · interactive dashboard · PNG/PDF export
-
----
-
 ### 📡 APG Forecaster Pro *(MSc Thesis — uploading soon)*
 
 ![LightGBM](https://img.shields.io/badge/LightGBM-2e8b57?style=flat-square)
@@ -169,6 +156,9 @@ End-to-end ingestion, correction, and visualization pipeline for a multi-station
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![BESS](https://img.shields.io/badge/BESS%20Dispatch-f0b429?style=flat-square)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![30kV Grid](https://img.shields.io/badge/30kV%20Grid%20Data-2e8b57?style=flat-square)
+
 
 Techno-economic curtailment study for a grid-constrained 10.16 MW Austrian PV site paired with a 4.3 MWh BESS. Seven physically-correct dispatch strategies are benchmarked across two full calendar years of 15-minute data, with automated capacity-sizing sweeps to hit any curtailment-reduction target.
 
