@@ -139,6 +139,55 @@ Multi-strategy battery dispatch simulator using real **30kV substation data** (U
 
 ---
 
+### 🔀 [PyPSA-AT Analytics](https://github.com/AIMLDS7/pypsa-at_analytics)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![PyPSA](https://img.shields.io/badge/PyPSA-1E88E5?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Parquet](https://img.shields.io/badge/Apache%20Parquet-50ABF1?style=flat-square)
+
+Provenance-first analytics toolkit for PyPSA-AT power system simulations. Every solved network run is fingerprinted and checkpointed into a manifest, then appended into a durable Parquet store — so overwriting `results/*.nc` on the next solve never means losing the ability to compare scenarios. An 8-tab Streamlit workbench ties it together with automated config-diffing and KPI deltas.
+
+> **Outcomes:** run provenance & config diffing · append-only Parquet analytics store · 8-tab Streamlit dashboard · zero `.nc` duplication
+
+---
+
+### 🌦️ [Weather Station Data Pipeline & Interactive Analytics Dashboard](https://github.com/AIMLDS7/Weather-Station-Data-Pipeline-Interactive-Analytics-Dashboard)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![pvlib](https://img.shields.io/badge/Solar%20Modelling-pvlib-orange?style=flat-square)
+
+End-to-end ingestion, correction, and visualization pipeline for a multi-station meteorological monitoring network — from secure SFTP acquisition through timestamp correction to an interactive, weekly-chunked sensor dashboard. Cross-validates ground-based solar irradiance against clear-sky reference models for PV performance QA.
+
+> **Outcomes:** multi-station SFTP ingestion · automated data-availability audit · clear-sky irradiance benchmarking (pvlib) · A3 print-grade PNG/PDF/HTML export
+
+---
+
+### ⚡ [PV-Battery Curtailment Analysis Tool](https://github.com/AIMLDS7/PV-Battery-Curtailment-Analysis-Tool)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
+![BESS](https://img.shields.io/badge/BESS%20Dispatch-f0b429?style=flat-square)
+
+Techno-economic curtailment study for a grid-constrained 10.16 MW Austrian PV site paired with a 4.3 MWh BESS. Seven physically-correct dispatch strategies are benchmarked across two full calendar years of 15-minute data, with automated capacity-sizing sweeps to hit any curtailment-reduction target.
+
+> **Outcomes:** 922 MWh/year recovered (best strategy) · 7 dispatch strategies ranked · strict battery-causality model · interactive dashboards + DOCX/Excel reporting
+
+---
+
+### 🛰️ [NASA POWER Hourly Climate Data Downloader — Global](https://github.com/AIMLDS7/NASA_POWER_Hourly_Climate_Data_Downloader_Global)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![NASA POWER](https://img.shields.io/badge/NASA%20POWER%20API-0B3D91?style=flat-square&logo=nasa&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+
+Interactive Jupyter pipeline wrapping the NASA POWER REST API — replacing the manual data-access-viewer portal with a reproducible, scriptable workflow. Cleans `-999` flags, parses UTC timestamps, and structures hourly climate data (2001–present) across 25+ preset locations into ML-ready CSV/Excel output that feeds directly into the day-ahead price forecaster's weather features.
+
+> **Outcomes:** 25+ location presets, no API key required · automatic `-999`→`NaN` cleaning · deterministic reproducible file naming · direct feed into the XGBoost price forecaster
+
+---
+
 <!-- ============================================================
      TECH STACK
      ============================================================ -->
